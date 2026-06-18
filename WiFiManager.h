@@ -141,6 +141,8 @@
   #include "wm_strings_es.h"
 #elif defined(LANG_EN)
   #include "wm_strings_en.h"
+#elif defined(LANG_RU)
+  #include "wm_strings_ru.h"
 #elif defined(LANG_FR)
   #include "wm_strings_fr.h"
 #elif defined(LANG_PT)
